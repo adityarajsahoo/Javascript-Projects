@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+
+.col-md-6{
+    border: 5px solid black;
+    margin-top: 150px !important;
+    padding: 20px;
+}
+
+/* important is used to override bootstrap classes */
+
+button{
+    margin: 20px !important; 
+    border: 2px solid black !important;
+}
+
+h1{
+    font-weight: bolder !important;
+    margin: 20px !important;
+}
